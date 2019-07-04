@@ -9,5 +9,5 @@ project(FlamingoRunner)
 
 add_executable(
         flamingorunner
-	../src/FlamingoRunner.cpp
+	src/FlamingoRunner.cpp
 )
